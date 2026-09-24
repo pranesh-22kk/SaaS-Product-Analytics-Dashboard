@@ -352,11 +352,5 @@ Built as part of an independent data analytics portfolio to demonstrate end-to-e
 
 **Domain:** SaaS Analytics · Product Analytics · Churn & Retention
 
-**Connect:** [LinkedIn](https://linkedin.com/in/pratikshadandriyal) · [GitHub](https://github.com/pratikshadandriyal)
+**Connect:** [LinkedIn](https://www.linkedin.com/in/pranesh-k-662567259/) · [GitHub](https://github.com/pranesh-22kk)
 
----
-
-## Other Projects
-
-- [Helpdesk Performance & SLA Analytics](https://github.com/pratikshadandriyal/Helpdesk-Performance-SLA-Analytics) — SQL Server + Power BI, 8,000+ tickets, 26 months of IT operations data, SLA breach analysis
-- [AI Job Displacement Dashboard](https://github.com/pratikshadandriyal/AI-Job-Displacement-Reskilling-Dashboard) — Power BI, 13,700+ job records across 9 countries
